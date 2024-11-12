@@ -30,6 +30,6 @@ For questions about these Terms, please contact us at ACMECompany.com.
 
 ##7. Adddum
 
-|Name.     |Eamil              |
-|-----     |-----              |
+|Name    |Eamil                |
+|--------|---------------------|
 |Linda Lin | ll@acmecompany.com| 
